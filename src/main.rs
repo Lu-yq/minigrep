@@ -1,7 +1,7 @@
 use std::env;
 use std::process;
 
-use minigrep::{Config, run};
+use minigrep_yunzhu::{Config, run};
 
 /// Adds one to the number given.
 ///

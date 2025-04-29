@@ -1,5 +1,5 @@
 [package]
-name = "minigrep"
+name = "minigrep_yunzhu"
 version = "0.1.0"
 edition = "2024"
 description = "A fun toll to search text for a pattern"
